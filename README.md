@@ -1,5 +1,7 @@
 ## Olá, eu sou o Marcelo Vilela!!🖐️
 
+Profissional de TI em busca constante de conhecimento. Apaixonado por programação e comprometido com o aprendizado contínuo. 💻📚 
+
 - 👔 Trabalho atualmente como Assistente / Help Desk
 - 👨‍💻 Estudando C# e .NET
 <div style = "display: inline_block">
