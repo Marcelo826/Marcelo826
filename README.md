@@ -1,28 +1,27 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Olá, eu sou o Marcelo Vilela!!🖐️
 
 Profissional de TI em busca constante de conhecimento. Apaixonado por programação e comprometido com o aprendizado contínuo. 💻📚 
 
-- 👔 Trabalho atualmente como Assistente / Help Desk
-- 👨‍💻 Estudando C# e .NET
+- 💻 Explorando novas tecnologias e desenvolvimento.
+- 🎓 Formação em **Sistemas de Infeormação** pela <a href="https://estacio.br">Estácio de Sá</a>
+- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href= "https://balta.io">Balta.io</a>
+- 💼 Trabalhando como **Assistente de TI** na <a href="https://www.lowndes.com.br">Lowndes & Sons</a>
+
+## 🚀 Minhas Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,dotnet,csharp" />
+  </a>
+</p>
+
+
+## 📊 Estatísticas
 <div style = "display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo826&hide=contribs,prs&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo826&progress=false&theme=dracula"/>
-</div>
-
-## Tecnologias que uso
-<div style="display: inline_block">
-  <img align="center" alt="Marcelo-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Marcelo-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img align="center" alt="Marcelo-JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img align="center" alt="Marcelo-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
-<br/>
-
-## Estou estudando
-<div style="display: inline_block">
-  <img align="center" alt="Marcelo-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Marcelo-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Marcelo-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
 
