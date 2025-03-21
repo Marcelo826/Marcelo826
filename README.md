@@ -6,8 +6,7 @@ Profissional de TI em busca constante de conhecimento. Apaixonado por programaç
 
 - 💻 Explorando novas tecnologias e desenvolvimento.
 - 🎓 Formação em **Sistemas de Informação** pela <a href="https://estacio.br">Estácio de Sá</a>
-- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href= "https://balta.io">Balta.io</a>
-- 💼 Trabalhando como **Assistente de TI** na <a href="https://www.lowndes.com.br">Lowndes & Sons</a>
+- 💼 Trabalhando como **Analista de Sistemas** na <a href="https://www.horizzon.com.br/">Horizzon Technology</a>
 
 ## 🚀 Minhas Skills
 
